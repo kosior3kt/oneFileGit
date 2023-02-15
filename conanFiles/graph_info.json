@@ -1,0 +1,22 @@
+{
+ "options": [
+  [
+   "xxhash:fPIC",
+   "True"
+  ],
+  [
+   "xxhash:shared",
+   "False"
+  ],
+  [
+   "xxhash:utility",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

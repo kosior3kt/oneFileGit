@@ -1,0 +1,24 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "xxhash:fPIC=True\nxxhash:shared=False\nxxhash:utility=True",
+    "requires": [
+     "1"
+    ],
+    "path": "conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "xxhash/0.8.1",
+    "options": "fPIC=True\nshared=False\nutility=True",
+    "package_id": "dfccc27f39b2eba6ec2de8eab547c40fbebf1ae5",
+    "prev": "0",
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=armv8\narch_build=armv8\nbuild_type=Release\ncompiler=apple-clang\ncompiler.libcxx=libc++\ncompiler.version=14\nos=Macos\nos_build=Macos\n[options]\n[build_requires]\n[env]\n"
+}

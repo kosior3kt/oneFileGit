@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/jk/Programming/CPP/oneFileGit/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jk/Programming/CPP/oneFileGit/build -I/Users/jk/Programming/CPP/oneFileGit -I/Users/jk/.conan/data/xxhash/0.8.1/_/_/package/dfccc27f39b2eba6ec2de8eab547c40fbebf1ae5/include -I/Users/jk/Programming/CPP/oneFileGit/conanFiles/bin -g  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -std=gnu++20 -o CMakeFiles/prog.dir/src/main.cpp.o -c /Users/jk/Programming/CPP/oneFileGit/src/main.cpp",
+  "file": "/Users/jk/Programming/CPP/oneFileGit/src/main.cpp"
+},
+{
+  "directory": "/Users/jk/Programming/CPP/oneFileGit/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jk/Programming/CPP/oneFileGit/build -I/Users/jk/Programming/CPP/oneFileGit -I/Users/jk/.conan/data/xxhash/0.8.1/_/_/package/dfccc27f39b2eba6ec2de8eab547c40fbebf1ae5/include -I/Users/jk/Programming/CPP/oneFileGit/conanFiles/bin -g  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -std=gnu++20 -o CMakeFiles/prog.dir/src/hasher.cpp.o -c /Users/jk/Programming/CPP/oneFileGit/src/hasher.cpp",
+  "file": "/Users/jk/Programming/CPP/oneFileGit/src/hasher.cpp"
+},
+{
+  "directory": "/Users/jk/Programming/CPP/oneFileGit/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jk/Programming/CPP/oneFileGit/build -I/Users/jk/Programming/CPP/oneFileGit -I/Users/jk/.conan/data/xxhash/0.8.1/_/_/package/dfccc27f39b2eba6ec2de8eab547c40fbebf1ae5/include -I/Users/jk/Programming/CPP/oneFileGit/conanFiles/bin -g  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -std=gnu++20 -o CMakeFiles/prog.dir/src/fileReader.cpp.o -c /Users/jk/Programming/CPP/oneFileGit/src/fileReader.cpp",
+  "file": "/Users/jk/Programming/CPP/oneFileGit/src/fileReader.cpp"
+},
+{
+  "directory": "/Users/jk/Programming/CPP/oneFileGit/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jk/Programming/CPP/oneFileGit/build -I/Users/jk/Programming/CPP/oneFileGit -I/Users/jk/.conan/data/xxhash/0.8.1/_/_/package/dfccc27f39b2eba6ec2de8eab547c40fbebf1ae5/include -I/Users/jk/Programming/CPP/oneFileGit/conanFiles/bin -g  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -std=gnu++20 -o CMakeFiles/prog.dir/src/repo.cpp.o -c /Users/jk/Programming/CPP/oneFileGit/src/repo.cpp",
+  "file": "/Users/jk/Programming/CPP/oneFileGit/src/repo.cpp"
+}
+]
