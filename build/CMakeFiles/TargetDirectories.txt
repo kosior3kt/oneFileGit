@@ -1,3 +1,0 @@
-/Users/jk/Programming/CPP/oneFileGit/build/CMakeFiles/prog.dir
-/Users/jk/Programming/CPP/oneFileGit/build/CMakeFiles/edit_cache.dir
-/Users/jk/Programming/CPP/oneFileGit/build/CMakeFiles/rebuild_cache.dir
